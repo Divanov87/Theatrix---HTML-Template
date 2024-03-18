@@ -21,13 +21,17 @@
  
   <br />
 
-</div>
+
 
 ### Screenshots
 
   <img src="./preview-images/desktop.png" />
+    <br />
+    <br />
   <img src="./preview-images/tablet.png" />
   <img src="./preview-images/mobile.png" />
+
+  </div>
 
 ### Prerequisites
 
